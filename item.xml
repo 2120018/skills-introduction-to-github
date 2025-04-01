@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayInfo>
+	<name>cgh</name>
+	<atk>10</atk>
+	<def def="1"/>
+	<item>
+		<id id="1"/>
+	</item>
+	<itemList>
+		<item>
+			<id>1</id>
+			<num>1</num>
+		</item>
+
+	</itemList>
+</PlayInfo>
